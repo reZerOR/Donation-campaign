@@ -7,7 +7,7 @@
     "category": "Health",
     "category_bg": "#0052ff33",
     "card_bg": "#0052ff26",
-    "txt_&_btn_bg": "#0052FF",
+    "txt_btn_bg": "#0052FF",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
     "price": 290
   },
@@ -19,7 +19,7 @@
     "category": "Education",
     "category_bg": "#ff444a33",
     "card_bg": "#ff444a26",
-    "txt_&_btn_bg": "#FF444A",
+    "txt_btn_bg": "#FF444A",
     "description": "Suspendisse non diam nec urna vestibulum rhoncus eget at nisi.",
     "price": 290
   },
@@ -27,11 +27,11 @@
     "id": 3,
     "img": "https://i.ibb.co/Mh04Kb5/Clothing.png",
     "rect_img": "https://i.ibb.co/nPYxrfY/Rectangle-4287.png",
-    "title": "Product 3",
-    "category": "Home Decor",
+    "title": "Used Clothing Drive",
+    "category": "Clothing",
     "category_bg": "#79c23f33",
     "card_bg": "#79c23f26",
-    "txt_&_btn_bg": "#79C23F",
+    "txt_btn_bg": "#79C23F",
     "description": "Vivamus ac metus eu ex tincidunt blandit.",
     "price": 290
   },
@@ -43,7 +43,7 @@
     "category": "Food",
     "category_bg": "#f8714733",
     "card_bg": "#f8714726",
-    "txt_&_btn_bg": "#F87147",
+    "txt_btn_bg": "#F87147",
     "description": "Praesent et odio id urna iaculis commodo.",
     "price": 290
   },
@@ -55,7 +55,7 @@
     "category": "Food",
     "category_bg": "#f8714733",
     "card_bg": "#f8714726",
-    "txt_&_btn_bg": "#F87147",
+    "txt_btn_bg": "#F87147",
     "description": "Cras in erat a nisl consequat suscipit.",
     "price": 290
   },
@@ -63,11 +63,11 @@
     "id": 6,
     "img": "https://i.ibb.co/Mh04Kb5/Clothing.png",
     "rect_img": "https://i.ibb.co/nPYxrfY/Rectangle-4287.png",
-    "title": "Product 3",
-    "category": "Home Decor",
+    "title": "Used Clothing Drive",
+    "category": "Clothing",
     "category_bg": "#79c23f33",
     "card_bg": "#79c23f26",
-    "txt_&_btn_bg": "#79C23F",
+    "txt_btn_bg": "#79C23F",
     "description": "Fusce non ipsum nec enim auctor mattis.",
     "price": 290
   },
@@ -79,7 +79,7 @@
     "category": "Education",
     "category_bg": "#ff444a33",
     "card_bg": "#ff444a26",
-    "txt_&_btn_bg": "#FF444A",
+    "txt_btn_bg": "#FF444A",
     "description": "Nullam euismod velit sed ligula venenatis feugiat.",
     "price": 290
   },
@@ -91,7 +91,7 @@
     "category": "Health",
     "category_bg": "#0052ff33",
     "card_bg": "#0052ff26",
-    "txt_&_btn_bg": "#0052FF",
+    "txt_btn_bg": "#0052FF",
     "description": "Aliquam id quam vel nulla lacinia tincidunt.",
     "price": 290
   },
@@ -103,7 +103,7 @@
     "category": "Health",
     "category_bg": "#0052ff33",
     "card_bg": "#0052ff26",
-    "txt_&_btn_bg": "#0052FF",
+    "txt_btn_bg": "#0052FF",
     "description": "Pellentesque eget augue nec felis cursus ultricies.",
     "price": 290
   },
@@ -115,7 +115,7 @@
     "category": "Education",
     "category_bg": "#ff444a33",
     "card_bg": "#ff444a26",
-    "txt_&_btn_bg": "#FF444A",
+    "txt_btn_bg": "#FF444A",
     "description": "Vestibulum id urna vel quam laoreet euismod.",
     "price": 290
   },
@@ -123,11 +123,11 @@
     "id": 11,
     "img": "https://i.ibb.co/Mh04Kb5/Clothing.png",
     "rect_img": "https://i.ibb.co/nPYxrfY/Rectangle-4287.png",
-    "title": "Product 3",
-    "category": "Home Decor",
+    "title": "Used Clothing Drive",
+    "category": "Clothing",
     "category_bg": "#79c23f33",
     "card_bg": "#79c23f26",
-    "txt_&_btn_bg": "#79C23F",
+    "txt_btn_bg": "#79C23F",
     "description": "Etiam id felis nec quam egestas varius.",
     "price": 290
   },
@@ -139,7 +139,7 @@
     "category": "Food",
     "category_bg": "#f8714733",
     "card_bg": "#f8714726",
-    "txt_&_btn_bg": "#F87147",
+    "txt_btn_bg": "#F87147",
     "description": "Sed sollicitudin lacus eu nisl tristique, non facilisis ex varius.",
     "price": 290
   }
