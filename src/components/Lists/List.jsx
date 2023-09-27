@@ -9,11 +9,19 @@ const List = () => {
       .then((data) => setLists(data));
   }, []);
   return (
-    <div className="grid grid-cols-1  md:grid-cols-2 justify-items-center lg:grid-cols-4 gap-6">
-      {lists.map((list) => (
-        <Card key={list.id} list={list}></Card>
-      ))}
-    </div>
+    <>
+      <div>
+        <h3 className="text-5xl font-bold">I Grow By Helping People In Need</h3>
+        <div>
+          <input type="text" />
+        </div>
+      </div>
+      <div className="grid grid-cols-1  md:grid-cols-2 justify-items-center lg:grid-cols-4 gap-6">
+        {lists.map((list) => (
+          <Card key={list.id} list={list}></Card>
+        ))}
+      </div>
+    </>
   );
 };
 

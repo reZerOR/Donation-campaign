@@ -4,7 +4,7 @@ import "./Header.css";
 
 const Header = () => {
   return (
-    <div className="flex flex-col md:flex-row justify-between items-center">
+    <div className="flex flex-col md:flex-row justify-between items-center mt-12">
       <div>
         <img src={logo} alt=" " />
       </div>
