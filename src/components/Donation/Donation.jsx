@@ -16,7 +16,6 @@ const Donation = () => {
   const handleBtn = () => {
     setBtn(!btn);
   };
-  console.log(cards);
   return (
     <div>
       {cards.length ? (
